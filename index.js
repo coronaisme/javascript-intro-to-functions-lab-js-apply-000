@@ -1,1 +1,1 @@
-var shout = 
+var shout = (string) => 
