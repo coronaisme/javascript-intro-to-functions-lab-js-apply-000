@@ -6,4 +6,4 @@ var logShout = (string) => console.log(string.toUpperCase());
 
 var logWhisper = (string) => console.log(string.toLowerCase());
 
-var sayHiToGrandma = (string) => { if (string)
+var sayHiToGrandma = (string) => { if (string.toUpperCase() === string)
